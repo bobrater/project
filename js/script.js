@@ -6,7 +6,7 @@ console.log(`https://someurl.com/${category}/5`);
 
 const user = 'Boris';
 
-alert(`Привет, ${user}`);
+alert(`Привет, ${user}, проходи садись`);
 
 
 let incr = 10,
